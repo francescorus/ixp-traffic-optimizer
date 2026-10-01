@@ -48,5 +48,3 @@ Per informazioni:
 
 * **Francesco Russo** – Università degli Studi di Padova  
 * **Prof. Nicola Zingirian** – Dipartimento di Ingegneria dell'Informazione (DEI)
-
-*(Il repository verrà aggiornato non appena l'articolo sarà sottomesso e pronto per la consultazione pubblica).*
