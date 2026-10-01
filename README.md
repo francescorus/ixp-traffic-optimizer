@@ -21,7 +21,7 @@ Questo repository è il punto di raccordo per l'attività di ricerca scaturita d
 
 ---
 
-## 📌 Di cosa si tratta (a grandi linee)
+## 📌 Di cosa si tratta
 
 Gli **Internet Exchange Point (IXP)** sono nodi nevralgici dell'infrastruttura globale di telecomunicazioni: connettono fisicamente su scala metropolitana centinaia di Internet Service Provider (ISP), Content Delivery Network (CDN) e operatori cloud per consentire lo scambio diretto e bilaterale di massicci volumi di traffico.
 
