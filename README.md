@@ -4,7 +4,7 @@
 [![Status](https://img.shields.io/badge/Project-Active%20Research-blue.svg)]()
 [![Scope](https://img.shields.io/badge/Domain-IXP%20%7C%20Traffic%20Engineering-darkgreen.svg)]()
 
-> **Progetto accademico e di ricerca**  
+> **Progetto accademico e paper**  
 > Università degli Studi di Padova – Dipartimento di Ingegneria dell'Informazione (DEI)  
 > **Autore:** Francesco Russo  
 > **Supervisione accademica:** Prof. Nicola Zingirian  
