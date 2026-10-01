@@ -1,4 +1,4 @@
-# Network Traffic Optimization in IXP Peering LANs
+# Ottimizzazione Del Traffico Di Rete In Un IXP
 
 [![Research](https://img.shields.io/badge/Research-Paper%20in%20Preparation-orange.svg)]()
 [![Status](https://img.shields.io/badge/Project-Active%20Research-blue.svg)]()
