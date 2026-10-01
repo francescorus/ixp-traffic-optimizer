@@ -44,7 +44,7 @@ Il progetto affronta il problema dell'**ingegneria del traffico all'interno dell
 
 ## 📬 Contatti
 
-Per informazioni sullo stato della ricerca o richieste di approfondimento accademico:
+Per informazioni:
 
 * **Francesco Russo** – Università degli Studi di Padova  
 * **Prof. Nicola Zingirian** – Dipartimento di Ingegneria dell'Informazione (DEI)
