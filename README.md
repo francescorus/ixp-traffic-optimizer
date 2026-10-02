@@ -36,7 +36,7 @@ All'aumentare esponenziale dei flussi multimediali e dei requisiti di latenza, l
 
 Il progetto affronta il problema dell'**ingegneria del traffico all'interno della Peering LAN del MIX** proponendo un framework integrato che combina:
 
-1. **Modellazione matematica avanzata:** Una formulazione rigorosa dell'instradamento che quantifica il costo della congestione di rete e determina un'allocazione bilanciata dei flussi, massimizzando il margine di sicurezza rispetto alle capacità fisiche dei collegamenti.
+1. **Modellazione matematica:** Una formulazione rigorosa dell'instradamento che quantifica il costo della congestione di rete e determina un'allocazione bilanciata dei flussi, massimizzando il margine di sicurezza rispetto alle capacità fisiche dei collegamenti.
 2. **Framework applicativo dedicato:** Una piattaforma software completa progettata per consentire agli operatori di rete di importare la topologia, simulare diversi scenari di carico "what-if" e calcolare in modo deterministico le configurazioni ottimali.
 3. **Analisi e validazione empirica:** Lo studio del comportamento del sistema su configurazioni e vincoli operativi reali dell'infrastruttura del MIX.
 
